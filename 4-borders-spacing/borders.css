@@ -1,0 +1,7 @@
+/* borders.css */
+
+p {
+  border: solid 1px red;
+  /* padding: 30px 50px 70px 90px; */
+  margin: 30px 50px 70px 90px;
+}

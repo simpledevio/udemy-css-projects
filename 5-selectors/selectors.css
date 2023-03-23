@@ -1,0 +1,13 @@
+/* selectors.css */
+
+/* .cool-text {
+  color: red;
+} */
+
+#nice-text {
+  color: pink;
+}
+
+h1, h2, h3 {
+  text-transform: uppercase;
+}

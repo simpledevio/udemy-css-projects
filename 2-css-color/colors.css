@@ -1,0 +1,7 @@
+/* colors.css */
+
+p {
+  /* color: red;
+  background-color: black; */
+  color: rgba(0, 0, 255, .5);
+}

@@ -1,0 +1,43 @@
+/* concepts.css */
+
+/* #nice-text {
+  color: red;
+} */
+
+/* .cool-text {
+  color: blue;
+} */
+
+/* p {
+  color: green;
+} */
+
+/* CASCADE */
+
+/* .cool-text {
+  color: red;
+}
+
+.cool-text {
+  color: pink;
+} */
+
+/* INHERITANCE */
+
+/* body {
+  color: pink;
+}
+
+h1 {
+  color: red;
+} */
+
+/* IMPORTANT */
+
+p {
+  color: red !important;
+}
+
+p {
+  color: pink !important;
+}
